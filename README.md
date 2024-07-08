@@ -32,8 +32,9 @@
 
 
 **MyExperience**
-the management of the military network (KJCCS, AKJCCS, MIMS-C, JFOS-K)
-Traffic light recognition algorithm using machine learning
+
+the management of the military network (KJCCS, AKJCCS, MIMS-C, JFOS-K)</br>
+Traffic light recognition algorithm using machine learning</br>
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
