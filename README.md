@@ -2,16 +2,10 @@
 
 ### 얉고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
 
-<!-- Body -->
-
-**오리가 좋은 얉고 넓은 개발자**
-
 [네이버 블로그](https://blog.naver.com/cokebear2862)
 
-
-
-
-### 🦾 Skills
+<!-- Body -->
+### 🦾 MySkills
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
