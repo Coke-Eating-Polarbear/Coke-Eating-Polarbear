@@ -7,6 +7,7 @@
 <!-- Body -->
 ### 🦾 MySkills
 **🧑‍💻 Lang and Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) 
@@ -15,6 +16,7 @@
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) 
 
 **🛠️ Infra and Tools**
+
 ![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VScode-000000.svg?&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
