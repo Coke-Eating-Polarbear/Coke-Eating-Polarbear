@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=360&text=Duck+and+Bear&fontSize=70&fontAlign=50&fontAlignY=50&desc=Odungjoa&descSize=20&descAlign=50&descAlignY=60)
 
-### 얕게 여러게를 배운 응애 개발자
+### 얉고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
 
 <!-- Body -->
 
