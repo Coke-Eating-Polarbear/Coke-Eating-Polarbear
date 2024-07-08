@@ -27,6 +27,8 @@
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) </br>
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
+![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
