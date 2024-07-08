@@ -32,7 +32,6 @@
 
 
 **MyExperience**
-
 the management of the military network (KJCCS, AKJCCS, MIMS-C, JFOS-K)</br>
 Traffic light recognition algorithm using machine learning</br>
 
