@@ -1,3 +1,5 @@
+![오둥이페드로](https://i.imgur.com/nFyt3hz.gif)
+
 ### 얉고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
 
 <!-- Body -->
@@ -7,7 +9,7 @@
 [네이버 블로그](https://blog.naver.com/cokebear2862)
 
 
-![오둥이페드로](https://i.imgur.com/nFyt3hz.gif)
+
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
