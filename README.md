@@ -1,7 +1,3 @@
-<!-- Header -->
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=360&text=Duck+and+Bear&fontSize=70&fontAlign=50&fontAlignY=50&desc=Odungjoa&descSize=20&descAlign=50&descAlignY=60)
-
 ### 얉고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
 
 <!-- Body -->
@@ -23,3 +19,6 @@
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
+
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoke-Eating-Polarbear&edge_flat=true&title=Duck)
