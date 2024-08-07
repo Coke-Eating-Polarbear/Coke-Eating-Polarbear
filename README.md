@@ -1,6 +1,6 @@
 <!--Head -->
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoke-Eating-Polarbear&edge_flat=true&title=Duck)
-### 얉고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
+### 얕고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
 
 [네이버 블로그](https://blog.naver.com/cokebear2862)
 
