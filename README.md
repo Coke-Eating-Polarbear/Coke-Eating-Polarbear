@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) </br>
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) 
-
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
 **🛠️ Infra and Tools**
 
 ![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -34,7 +34,7 @@
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/Matlab-000000.svg?&style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white) 
-
+![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
 **⌛MyExperience**</br>
 Traffic light recognition algorithm using machine learning</br>
 
