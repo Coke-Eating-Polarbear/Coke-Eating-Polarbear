@@ -2,8 +2,6 @@
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoke-Eating-Polarbear&edge_flat=true&title=Duck)
 ### 얕고 넓은 지식을 깊고 넓은 지식으로 바꿔가는 개발자
 
-[네이버 블로그](https://blog.naver.com/cokebear2862)
-
 <!-- Body -->
 ### 🦾 MySkills
 **🧑‍💻 Lang and Frameworks**
@@ -15,7 +13,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) </br>
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</br>
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
+
 **🛠️ Infra and Tools**
 
 ![Visual Studio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -35,8 +36,7 @@
 ![MATLAB](https://img.shields.io/badge/Matlab-000000.svg?&style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
-**⌛MyExperience**</br>
-Traffic light recognition algorithm using machine learning</br>
+
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
