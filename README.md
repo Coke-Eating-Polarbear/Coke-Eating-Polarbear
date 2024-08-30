@@ -24,19 +24,19 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)</br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
-![YoloV3](https://img.shields.io/badge/Yolov3-000000.svg?&style=for-the-badge) </br>
+![YOLO](https://img.shields.io/badge/yolo-00FFFF.svg?&style=for-the-badge&logo=yolo&logoColor=white)  </br>
 ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) </br>
+![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) </br>
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) </br>
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![MATLAB](https://img.shields.io/badge/Matlab-000000.svg?&style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/Matlab-000000.svg?&style=for-the-badge)</br>
 ![XAMPP](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) 
-
+ 
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
