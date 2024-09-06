@@ -41,9 +41,7 @@
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
 
-
-<img src="https://i.imgur.com/nFyt3hz.gif" alt="오둥이페드로" width="300" />
-
-
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coke-Eating-Polarbear&layout=donut-vertical)
+
+<img src="https://i.imgur.com/nFyt3hz.gif" alt="오둥이페드로" width="300" />
