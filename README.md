@@ -41,7 +41,8 @@
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
 
-![오둥이페드로](https://i.imgur.com/nFyt3hz.gif)
+
+<img src="https://i.imgur.com/nFyt3hz.gif" alt="오둥이페드로" width="300" />
 
 
 ### 🚌 Top Langs
