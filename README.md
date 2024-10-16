@@ -39,7 +39,11 @@
  
 
 ### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862)](https://solved.ac/profile/audwns2862)
+<a href="https://solved.ac/profile/audwns2862">
+    <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=audwns2862"/>
+</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coke-Eating-Polarbear&show_icons=true&theme=buefy" />
+
 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coke-Eating-Polarbear&layout=donut-vertical)
